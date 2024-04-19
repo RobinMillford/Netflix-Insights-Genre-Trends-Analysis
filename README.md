@@ -2,6 +2,8 @@
 
 In this project, I conducted an in-depth analysis of the Netflix dataset to gain insights into various aspects of the content available on the platform. My exploration covered a wide range of queries, including statistical summaries, trend analysis, and genre-specific investigations. I utilized SQL queries to extract and manipulate data from the dataset, allowing me to perform complex analyses and answer specific questions.
 
+**Dataset** - https://www.kaggle.com/datasets/yaminh/netflix-dataset-for-analysis
+
 **Approach:**
 
 1. **Data Loading and Cleaning:** I began by loading the Netflix dataset into a SQL database and performed initial data cleaning tasks such as handling missing values, removing duplicates, and converting data types.
